@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    font-family: Sora;
+    color: #141414;
+}
+
+h1,h2,h3,p{
+    margin: 0px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+.subtitulo{
+    font-size: 144px;
+    line-height: 1;
+    word-break: break-all;
+    text-transform: uppercase;
+    font-weight: 700;
+    max-width: 4ch;
+}
